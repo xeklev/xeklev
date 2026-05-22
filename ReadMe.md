@@ -88,6 +88,3 @@ Passionate **Backend Engineer, Data Scientist, and COO** with strong expertise i
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge\&logo=tor-project\&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge\&logo=notion\&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge\&logo=jira\&logoColor=white)
-
-# GitHub Stats
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=xeklev\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
